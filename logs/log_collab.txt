@@ -1,0 +1,379 @@
+[2025-06-10 11:00:09,175 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-10 11:00:09,176 INFO] NumExpr defaulting to 8 threads.
+[2025-06-10 14:47:56,945 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-10 14:47:56,946 INFO] NumExpr defaulting to 8 threads.
+[2025-06-10 16:40:34,693 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-10 16:40:34,693 INFO] NumExpr defaulting to 8 threads.
+[2025-06-10 16:40:54,833 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-10 16:40:54,835 INFO] NumExpr defaulting to 8 threads.
+[2025-06-10 16:44:53,961 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-10 16:44:53,962 INFO] NumExpr defaulting to 8 threads.
+[2025-06-10 19:54:33,379 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-10 19:54:33,395 INFO] NumExpr defaulting to 8 threads.
+[2025-06-10 19:58:49,978 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-10 19:58:49,979 INFO] NumExpr defaulting to 8 threads.
+[2025-06-10 20:03:48,542 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-10 20:03:48,542 INFO] NumExpr defaulting to 8 threads.
+[2025-06-10 20:34:17,667 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-10 20:34:17,675 INFO] NumExpr defaulting to 8 threads.
+[2025-06-10 20:43:44,500 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-10 20:43:44,500 INFO] NumExpr defaulting to 8 threads.
+[2025-06-10 20:54:54,286 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-10 20:54:54,286 INFO] NumExpr defaulting to 8 threads.
+[2025-06-10 21:15:34,577 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-10 21:15:34,577 INFO] NumExpr defaulting to 8 threads.
+[2025-06-10 21:24:15,044 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-10 21:24:15,045 INFO] NumExpr defaulting to 8 threads.
+[2025-06-10 21:26:23,233 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-10 21:26:23,234 INFO] NumExpr defaulting to 8 threads.
+[2025-06-10 21:27:02,222 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-10 21:27:02,222 INFO] NumExpr defaulting to 8 threads.
+[2025-06-10 22:02:51,533 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-10 22:02:51,547 INFO] NumExpr defaulting to 8 threads.
+[2025-06-10 22:03:58,769 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-10 22:03:58,787 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 09:10:16,429 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 09:10:16,441 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 09:11:15,297 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 09:11:15,297 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 09:11:52,821 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 09:11:52,821 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 09:12:14,835 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 09:12:14,836 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 09:13:44,170 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 09:13:44,185 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 09:20:19,072 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 09:20:19,072 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 09:22:35,246 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 09:22:35,246 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 09:24:54,524 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 09:24:54,524 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 09:26:53,190 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 09:26:53,190 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 09:36:27,362 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 09:36:27,362 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 09:52:59,056 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 09:52:59,070 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 09:55:53,840 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 09:55:53,840 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 10:23:35,080 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 10:23:35,080 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 10:28:13,229 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 10:28:13,229 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 10:29:41,207 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 10:29:41,207 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 10:52:10,176 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 10:52:10,176 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 10:54:12,475 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 10:54:12,516 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 10:56:09,797 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 10:56:09,797 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 10:58:52,059 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 10:58:52,059 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 11:04:02,546 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 11:04:02,546 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 11:11:04,150 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 11:11:04,150 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 11:16:22,385 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 11:16:22,385 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 11:29:40,173 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 11:29:40,173 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 15:16:06,203 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 15:16:06,214 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 15:18:29,283 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 15:18:29,283 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 15:20:15,906 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 15:20:15,908 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 15:20:35,215 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 15:20:35,215 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 15:24:52,893 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 15:24:52,893 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 15:25:21,379 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 15:25:21,380 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 15:32:39,702 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 15:32:39,702 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 15:33:50,939 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 15:33:50,939 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 15:37:24,666 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 15:37:24,667 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 15:38:52,107 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 15:38:52,107 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 15:43:00,064 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 15:43:00,065 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 15:45:00,245 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 15:45:00,246 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 15:49:32,544 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 15:49:32,544 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 19:44:14,675 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 19:44:14,694 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 19:45:42,242 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 19:45:42,242 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 19:47:50,577 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 19:47:50,577 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 19:52:04,697 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 19:52:04,697 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 19:55:55,100 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 19:55:55,100 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 19:58:51,324 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 19:58:51,325 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 20:00:35,591 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 20:00:35,591 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 20:02:40,367 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 20:02:40,368 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 20:05:08,255 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 20:05:08,256 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 20:08:57,423 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 20:08:57,423 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 20:12:18,562 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 20:12:18,577 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 21:04:42,012 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 21:04:42,025 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 21:06:05,748 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 21:06:05,749 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 21:07:59,300 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 21:07:59,300 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 21:08:50,778 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 21:08:50,779 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 21:09:19,934 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 21:09:19,934 INFO] NumExpr defaulting to 8 threads.
+[2025-06-11 21:49:58,118 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-11 21:49:58,130 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 08:59:50,143 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 08:59:50,156 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 09:05:10,015 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 09:05:10,015 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 09:07:31,700 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 09:07:31,701 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 09:11:47,733 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 09:11:47,734 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 09:13:33,916 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 09:13:33,916 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 09:17:07,288 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 09:17:07,288 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 09:20:11,514 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 09:20:11,515 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 09:21:56,058 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 09:21:56,059 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 09:27:15,293 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 09:27:15,293 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 09:27:39,445 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 09:27:39,446 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 09:45:02,195 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 09:45:02,195 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 09:45:58,273 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 09:45:58,273 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 09:48:03,264 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 09:48:03,266 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 10:01:30,288 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 10:01:30,288 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 10:04:12,780 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 10:04:12,793 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 10:07:42,761 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 10:07:42,762 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 10:13:33,605 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 10:13:33,605 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 10:15:31,119 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 10:15:31,120 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 10:16:18,283 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 10:16:18,284 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 10:17:38,198 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 10:17:38,199 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 10:32:03,707 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 10:32:03,720 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 10:34:41,523 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 10:34:41,524 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 10:37:31,194 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 10:37:31,194 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 10:39:42,417 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 10:39:42,417 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 10:39:53,730 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 10:39:53,731 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 10:44:12,840 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 10:44:12,840 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 11:07:55,840 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 11:07:55,841 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 16:48:03,261 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 16:48:03,281 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 16:48:17,169 INFO] Model forward time: 1.7875s
+[2025-06-12 16:48:18,175 INFO] Model forward time: 0.0716s
+[2025-06-12 16:48:19,087 INFO] Model forward time: 0.0827s
+[2025-06-12 16:48:20,004 INFO] Model forward time: 0.0874s
+[2025-06-12 16:48:20,924 INFO] Model forward time: 0.0821s
+[2025-06-12 16:48:21,843 INFO] Model forward time: 0.0780s
+[2025-06-12 16:48:22,752 INFO] Model forward time: 0.0714s
+[2025-06-12 16:48:23,661 INFO] Model forward time: 0.0725s
+[2025-06-12 16:48:24,589 INFO] Model forward time: 0.0805s
+[2025-06-12 16:48:25,526 INFO] Model forward time: 0.0910s
+[2025-06-12 16:48:26,447 INFO] Model forward time: 0.0720s
+[2025-06-12 16:48:27,366 INFO] Model forward time: 0.0710s
+[2025-06-12 16:48:28,292 INFO] Model forward time: 0.0676s
+[2025-06-12 16:48:29,238 INFO] Model forward time: 0.0903s
+[2025-06-12 16:48:30,192 INFO] Model forward time: 0.0971s
+[2025-06-12 16:48:31,131 INFO] Model forward time: 0.0735s
+[2025-06-12 16:48:35,128 INFO] Model forward time: 0.0740s
+[2025-06-12 16:48:36,051 INFO] Model forward time: 0.0894s
+[2025-06-12 16:48:36,945 INFO] Model forward time: 0.0700s
+[2025-06-12 16:48:37,849 INFO] Model forward time: 0.0768s
+[2025-06-12 16:48:38,757 INFO] Model forward time: 0.0742s
+[2025-06-12 16:48:39,664 INFO] Model forward time: 0.0713s
+[2025-06-12 16:48:40,572 INFO] Model forward time: 0.0733s
+[2025-06-12 16:48:41,482 INFO] Model forward time: 0.0716s
+[2025-06-12 16:48:42,390 INFO] Model forward time: 0.0650s
+[2025-06-12 16:48:43,328 INFO] Model forward time: 0.0769s
+[2025-06-12 16:48:44,246 INFO] Model forward time: 0.0672s
+[2025-06-12 16:48:45,184 INFO] Model forward time: 0.0717s
+[2025-06-12 16:48:46,118 INFO] Model forward time: 0.0784s
+[2025-06-12 16:48:47,052 INFO] Model forward time: 0.0809s
+[2025-06-12 16:48:47,994 INFO] Model forward time: 0.0836s
+[2025-06-12 16:48:49,123 INFO] Model forward time: 0.1834s
+[2025-06-12 16:48:50,094 INFO] Model forward time: 0.0813s
+[2025-06-12 16:48:51,007 INFO] Model forward time: 0.0829s
+[2025-06-12 16:48:51,926 INFO] Model forward time: 0.0866s
+[2025-06-12 16:48:52,837 INFO] Model forward time: 0.0785s
+[2025-06-12 16:48:53,798 INFO] Model forward time: 0.1183s
+[2025-06-12 16:48:54,721 INFO] Model forward time: 0.0839s
+[2025-06-12 16:48:55,643 INFO] Model forward time: 0.0847s
+[2025-06-12 16:48:56,568 INFO] Model forward time: 0.0808s
+[2025-06-12 16:48:57,498 INFO] Model forward time: 0.0790s
+[2025-06-12 16:48:58,433 INFO] Model forward time: 0.0837s
+[2025-06-12 16:48:59,375 INFO] Model forward time: 0.0875s
+[2025-06-12 16:49:00,306 INFO] Model forward time: 0.0803s
+[2025-06-12 16:49:01,237 INFO] Model forward time: 0.0736s
+[2025-06-12 16:49:02,173 INFO] Model forward time: 0.0769s
+[2025-06-12 16:49:03,119 INFO] Model forward time: 0.0762s
+[2025-06-12 16:49:04,056 INFO] Model forward time: 0.0714s
+[2025-06-12 16:49:05,018 INFO] Model forward time: 0.0790s
+[2025-06-12 16:49:05,937 INFO] Model forward time: 0.0707s
+[2025-06-12 16:49:06,854 INFO] Model forward time: 0.0753s
+[2025-06-12 16:49:07,762 INFO] Model forward time: 0.0744s
+[2025-06-12 16:49:08,690 INFO] Model forward time: 0.0822s
+[2025-06-12 16:49:09,607 INFO] Model forward time: 0.0825s
+[2025-06-12 16:49:10,529 INFO] Model forward time: 0.0793s
+[2025-06-12 16:49:11,445 INFO] Model forward time: 0.0727s
+[2025-06-12 16:49:12,369 INFO] Model forward time: 0.0794s
+[2025-06-12 16:49:13,306 INFO] Model forward time: 0.0781s
+[2025-06-12 16:49:14,237 INFO] Model forward time: 0.0787s
+[2025-06-12 16:49:15,158 INFO] Model forward time: 0.0703s
+[2025-06-12 16:49:16,098 INFO] Model forward time: 0.0754s
+[2025-06-12 16:49:17,040 INFO] Model forward time: 0.0718s
+[2025-06-12 16:49:18,000 INFO] Model forward time: 0.0908s
+[2025-06-12 16:49:19,078 INFO] Model forward time: 0.1290s
+[2025-06-12 16:49:23,403 INFO] Model forward time: 0.0952s
+[2025-06-12 16:49:24,354 INFO] Model forward time: 0.1027s
+[2025-06-12 16:49:25,290 INFO] Model forward time: 0.0982s
+[2025-06-12 16:49:26,213 INFO] Model forward time: 0.0824s
+[2025-06-12 16:49:27,142 INFO] Model forward time: 0.0850s
+[2025-06-12 16:49:28,181 INFO] Model forward time: 0.0688s
+[2025-06-12 16:49:29,099 INFO] Model forward time: 0.0811s
+[2025-06-12 16:49:30,011 INFO] Model forward time: 0.0755s
+[2025-06-12 16:49:30,932 INFO] Model forward time: 0.0702s
+[2025-06-12 16:49:31,862 INFO] Model forward time: 0.0688s
+[2025-06-12 16:49:32,798 INFO] Model forward time: 0.0707s
+[2025-06-12 16:51:27,676 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 16:51:27,676 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 16:52:38,012 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 16:52:38,012 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 17:08:36,720 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 17:08:36,720 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 17:12:16,342 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 17:12:16,343 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 17:13:20,686 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 17:13:20,686 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 17:15:35,839 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 17:15:35,839 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 17:19:15,660 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 17:19:15,660 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 17:20:36,159 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 17:20:36,159 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 17:20:53,753 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 17:20:53,753 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 20:40:12,634 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 20:40:12,641 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 20:41:48,470 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 20:41:48,470 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 20:49:08,215 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 20:49:08,215 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 20:49:39,432 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 20:49:39,433 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 20:51:29,930 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 20:51:29,931 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 20:53:49,442 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 20:53:49,444 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 20:55:53,690 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 20:55:53,691 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 21:06:17,363 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 21:06:17,463 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 21:07:57,474 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 21:07:57,474 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 21:11:49,330 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 21:11:49,330 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 21:13:48,023 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 21:13:48,023 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 21:16:13,556 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 21:16:13,557 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 21:18:59,404 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 21:18:59,404 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 21:19:56,094 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 21:19:56,094 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 21:20:30,535 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 21:20:30,535 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 21:20:56,148 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 21:20:56,149 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 21:22:07,942 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 21:22:07,942 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 21:24:24,259 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 21:24:24,272 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 21:25:06,365 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 21:25:06,366 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 21:26:15,016 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 21:26:15,016 INFO] NumExpr defaulting to 8 threads.
+[2025-06-12 21:44:36,896 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-12 21:44:36,896 INFO] NumExpr defaulting to 8 threads.
+[2025-06-13 09:22:59,555 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-13 09:22:59,560 INFO] NumExpr defaulting to 8 threads.
+[2025-06-13 09:23:24,602 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-13 09:23:24,602 INFO] NumExpr defaulting to 8 threads.
+[2025-06-13 09:25:43,486 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-13 09:25:43,486 INFO] NumExpr defaulting to 8 threads.
+[2025-06-13 09:30:52,146 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-13 09:30:52,146 INFO] NumExpr defaulting to 8 threads.
+[2025-06-13 16:32:20,271 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-13 16:32:20,364 INFO] NumExpr defaulting to 8 threads.
+[2025-06-13 17:04:58,422 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-13 17:04:58,422 INFO] NumExpr defaulting to 8 threads.
+[2025-06-17 11:22:53,452 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-17 11:22:53,466 INFO] NumExpr defaulting to 8 threads.
+[2025-06-17 11:23:56,392 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-17 11:23:56,392 INFO] NumExpr defaulting to 8 threads.
+[2025-06-19 19:43:50,768 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-19 19:43:50,869 INFO] NumExpr defaulting to 8 threads.
+[2025-06-19 19:44:36,878 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-19 19:44:36,878 INFO] NumExpr defaulting to 8 threads.
+[2025-06-20 09:57:01,256 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-20 09:57:01,257 INFO] NumExpr defaulting to 8 threads.
+[2025-06-20 09:58:58,757 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-20 09:58:58,758 INFO] NumExpr defaulting to 8 threads.
+[2025-06-20 11:22:05,232 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-20 11:22:05,325 INFO] NumExpr defaulting to 8 threads.
+[2025-06-21 19:56:02,873 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-21 19:56:02,889 INFO] NumExpr defaulting to 8 threads.
+[2025-06-21 20:16:05,648 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-21 20:16:05,649 INFO] NumExpr defaulting to 8 threads.
+[2025-06-21 20:20:32,454 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-21 20:20:32,454 INFO] NumExpr defaulting to 8 threads.
+[2025-06-27 10:40:56,281 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-27 10:40:56,298 INFO] NumExpr defaulting to 8 threads.
+[2025-06-27 10:41:26,357 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-27 10:41:26,357 INFO] NumExpr defaulting to 8 threads.
+[2025-06-27 10:51:52,994 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-06-27 10:51:52,994 INFO] NumExpr defaulting to 8 threads.
+[2025-07-07 15:29:20,563 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-07-07 15:29:20,783 INFO] NumExpr defaulting to 8 threads.
+[2025-07-07 15:31:01,104 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-07-07 15:31:01,104 INFO] NumExpr defaulting to 8 threads.
+[2025-07-07 15:33:40,496 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-07-07 15:33:40,496 INFO] NumExpr defaulting to 8 threads.
+[2025-10-12 10:46:31,495 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-10-12 10:46:31,510 INFO] NumExpr defaulting to 8 threads.
+[2025-10-13 10:07:22,902 INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-10-13 10:07:22,916 INFO] NumExpr defaulting to 8 threads.
