@@ -2,7 +2,7 @@
 
 This repository contains the official implementation of the paper:
 
-> **Mitigating Dynamic Graph Distribution Shifts via Spectral Augmentation (DSPY)**
+> **Mitigating Dynamic Graph Distribution Shifts via Spectral Augmentation (IJCAI2026)**
 
 ---
 ## 0. Abstract
